@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @fluive
+- 👋 Hi, I’m Eyad
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning PHP & JavaScript
-<!---
-fluive/fluive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I Love Programming And Play Games
+- 🌱 I’m currently learning BootStrab
+- I Have 11 Years Old
