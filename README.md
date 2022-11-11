@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eyad
 - 👀 I’m interested in Programing
 - 🌱 I Love Programming And Play Games
-- 🌱 I’m currently learning Bootstrab
-- I Have 11 Years Old
+- 🌱 I’m currently learning JS
+- I Have 12 Years Old
